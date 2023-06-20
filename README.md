@@ -2,19 +2,6 @@
 
 Welcome to the Password Hash Downloader, a powerful Python tool for downloading and saving password hash files from [an](https://haveibeenpwned.com/) API. With this application, you can obtain a large set of password hashes for analysis, security, or other purposes.
 
-### Requirements
-
-Before getting started, make sure you have Python 3 installed on your system. Additionally, you will need a few additional Python modules:
-
-- `aiohttp`
-- `asyncio`
-- `click`
-
-You can easily install these modules by running the following command:
-
-```
-pip install -r requirements.txt
-```
 
 ### Instructions
 
@@ -75,3 +62,16 @@ python main.py --files_path hashes --process 2 --thread 4 --mode ntlm --single
 
 7. After the download is complete, you will find the password hash files in the specified folder. You can now use them for your analysis, security purposes, or other needs.
 
+### Requirements
+
+Before getting started, make sure you have Python 3 installed on your system. Additionally, you will need a few additional Python modules:
+
+- `aiohttp`
+- `asyncio`
+- `click`
+
+You can easily install these modules by running the following command:
+
+```
+pip install -r requirements.txt
+```
