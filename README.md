@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Elia-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federico-elia-5199951b6)
+
 ## Password Hash Downloader
 
 Welcome to the Password Hash Downloader, a powerful Python tool for downloading and saving password hash files from [an](https://haveibeenpwned.com/) API. With this application, you can obtain a large set of password hashes for analysis, security, or other purposes.
